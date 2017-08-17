@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="questionOne">What is the tallest asajka ajaksd asd asdjk as dakjsd sdj?</string>
+    <string name="optionOneA">THe biggest one of them</string>
+    <string name="optionOneB">The smallest one of them</string>
+    <string name="optionOneC">None of the above</string>    <!-- Correct Option -->
+    <string name="optionOneD">All of the above</string>
+
+    <string name="questionTwo">Where s sf sfdkjsd s sdf asdjkas asdi sadklas asdioasd sad?</string>
+    <string name="optionTwoA">HMmmmmm</string>
+    <string name="optionTwoB">I don\'t know ni temi</string>    <!-- Correct Option -->
+    <string name="optionTwoC">Thinking</string>
+    <string name="optionTwoD">Still doubting</string>
+
+    <string name="questionThree">What is the name fit kjsf ksf sdfk sddsf sdf awe qe qweqwe?</string>
+    <string name="questionThreeAnswer">[Answer: Java]</string>
+
+    <string name="questionFour">Solve the mathematical equation below using BODMAS.</string>
+    <string name="questionFourEquation">4 - 3 x 2  = </string>
+    <string name="questionFourAnswer">[ -2 ]</string>
+
+    <!-- Correct Options: B and D -->
+    <string name="questionFive">What will be will awjehasd askdashd af?</string>
+    <string name="optionFiveA">So sure sha</string>
+    <string name="optionFiveB">is Okay oo</string>
+    <string name="optionFiveC">Oooleri</string>
+    <string name="optionFiveD">Gbefun wan</string>
+
+</resources>
